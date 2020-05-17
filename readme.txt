@@ -1,0 +1,1 @@
+在软件目录下保存face.jpg与video.mp4,启动主程序,生成res.avi
